@@ -50,6 +50,26 @@ Basta abrir o **index.html** no navegador para usar a aplicação!
 Você pode testar a aplicação acessando o link abaixo:
 🔗 [Sorteio Amigo Secreto](https://sorteioamigosecreto-taupe.vercel.app/)
 
+## 📖 Como Utilizar
+
+### 1️⃣ Adicionar Amigos
+- Digite o nome de um participante no campo de entrada.
+- Clique no botão **Adicionar** para inserir o nome na lista.
+- Repita o processo para todos os participantes.
+
+### 2️⃣ Realizar o Sorteio
+- Após adicionar os participantes, clique no botão **Sortear Amigo**.
+- O sistema irá selecionar aleatoriamente um nome da lista e exibir o resultado.
+
+### 3️⃣ Reiniciar o Sorteio
+- Caso queira começar do zero, clique no botão **Início**.
+- Isso limpará a lista de participantes e o resultado do sorteio.
+
+## 👨‍💻 Desenvolvedor
+
+Você pode testar a aplicação acessando o link abaixo:
+🔗 [Sorteio Amigo Secreto](https://sorteioamigosecreto-taupe.vercel.app/)
+
 ##
 
 ## 👨‍💻 Desenvolvedor
